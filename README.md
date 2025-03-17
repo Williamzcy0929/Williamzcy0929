@@ -10,7 +10,7 @@ My research interests include:
 - 🤖 Large Language Models (LLMs) and Natural Language Processing (NLP)
 - 🧠 Statistical Machine Learning/Deep Learning
 - 📊 Bayesian Statistics
-- 🔄 MCMC (Markov Chain Monte Carlo)
+- 🎲 MCMC (Markov Chain Monte Carlo)
 - To Be Continued...
 
 Feel free to connect with me!  
