@@ -1,4 +1,5 @@
 ### Hi, this is Changyue (William) Zhao 👋
+---
 
 My name is Changyue (pronunciation: Chahng-Yu-eh) Zhao (pronunciation: Jaw) and my preferred name is William. I use he/they pronouns. I am an undergraduate student majoring in Statistics and minoring in Computer Science.
 
@@ -10,6 +11,6 @@ My research interests include:
 - 🧠 Statistical Machine Learning/Deep Learning
 - 📊 Bayesian Statistics
 - 🔄 MCMC (Markov Chain Monte Carlo)
-- To Be Continued
+- To Be Continued...
 
 Feel free to connect with me!
