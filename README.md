@@ -6,7 +6,7 @@ My name is Changyue (pronunciation: Chahng-Yu-eh) Zhao (pronunciation: Jaw) and 
 I will continue my graduate studies at Duke University after Autumn 2025 and pursue a Ph.D. degree. 🎓
 
 My research interests include:
-- 📈 Transformer Models in Time Series
+- 📈 Transformer Models (Especially Transformers in Time Series)
 - 🤖 Large Language Models (LLMs) and Natural Language Processing (NLP)
 - 🧠 Statistical Machine Learning/Deep Learning
 - 📊 Bayesian Statistics
