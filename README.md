@@ -6,6 +6,7 @@ My name is Changyue (pronunciation: Chahng-Yu-eh) Zhao (pronunciation: Jaw), and
 My research interests include:
 - 📈 Transformer Models and Mixture of Experts Structure
 - 🤖 Large Language Models (LLMs) and Natural Language Processing (NLP)
+- 🌫️ Diffusion Models
 - 🧠 Statistical Machine Learning/Deep Learning
 - 📊 Bayesian Statistics
 - 🎲 MCMC (Markov Chain Monte Carlo)
