@@ -7,7 +7,7 @@ My research interests include:
 - 📈 Transformer Models and Mixture of Experts (MoE) Structure
 - 🤖 Large Language Models (LLMs) and Natural Language Processing (NLP)
 - ⚖️ Model Averaging
-- 🧑‍💻 RLHF (Reinforcement Learning from Human Feedback)
+- 🧑‍💻 Reinforcement Learning from Human Feedback (RLHF)
 - 🌫️ Diffusion Models and Diffusion-Based Language Models
 - 🧠 Statistical Machine Learning/Deep Learning
 - 🧬 Computational Biology & Bioinfomatics (CBB)
