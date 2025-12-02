@@ -1,7 +1,7 @@
 ### Hi, this is Changyue (William) Zhao 👋
 ---
 
-My name is Changyue (pronunciation: Chahng-Yu-eh) Zhao (pronunciation: Jaw), and my preferred name is William. I use he/they pronouns. I am a graduate student majoring in Biostatistics and Statistics at Duke University.
+My name is Changyue (pronunciation: Chahng-Yu-eh) Zhao (pronunciation: Jaw), and my preferred name is William. I use he/they pronouns. I am a graduate student majoring in Biostatistics at Duke University.
 
 My research interests include:
 - 📈 Transformer Models and Mixture of Experts (MoE) Structure
